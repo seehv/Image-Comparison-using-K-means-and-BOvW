@@ -8,7 +8,7 @@ Task-1:
 + Can process only single image
 + initially the image will be rescaled into VGA compatible size to redce the computation
 + Nect we will extract the Y-component (aka luminance) pannel from the image and we will use it to find the keyponints in an image. 
-+ Will show the Number of keypoint found in an image./
++ Will show the Number of keypoint found in an image. \
 How to run the program using cmd for task-1? 
   ###### /...> siftImages imagefile1
 
@@ -19,6 +19,6 @@ Task-2:
 + Use the BoVW to train our kmeans trainner
 + Now again for each image, find the decriptors. 
 + use those decriptors found in the previous step to search in the k-maenas model.
-+ display the Display the Dissimilarity matrix for all the images given in the CMD./
++ display the Display the Dissimilarity matrix for all the images given in the CMD. \
 How to run the program using cmd for task-2? 
   ###### /...> siftImages imagefile1 imagefile2 imagefile3 imagefile4...
