@@ -1,6 +1,10 @@
 # Image-Comparison-using-K-means-and-BOvW
 SIFT Descriptor implementation has been used in this program to find the similarity between the images 
 
+### Requirements in your environment
++ Opencv 4.4
++ Numpy
+
 #### About the program
 In this program, the flow has been divided into 2 tasks
 
